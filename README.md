@@ -17,16 +17,16 @@ Sistema de escritorio desarrollado en C# bajo una arquitectura de capas y comuni
 * **SQLQuery1.sql/**: Script de creación y configuración de la base de datos.
 * **Manual de uso_Sistema AutoMarket.pdf**: Documentación detallada del funcionamiento del sistema.
 
-<img width="741" height="649" alt="image" src="https://github.com/user-attachments/assets/fd1e652c-90b4-447e-9654-b5275a8b97e7" />
+<img width="562" height="494" alt="Captura de pantalla (693)" src="https://github.com/user-attachments/assets/96475a7d-b50c-4e85-87e0-1a43b0d895a1" />
 
 <img width="527" height="347" alt="image" src="https://github.com/user-attachments/assets/d7fa24a5-6ae7-4603-9f04-cc15ac91768e" />
 
-<img width="639" height="412" alt="Captura de pantalla (612)" src="https://github.com/user-attachments/assets/1e3f1065-d75f-4f54-9a30-e91d5c319679" />
+<img width="684" height="428" alt="Captura de pantalla (694)" src="https://github.com/user-attachments/assets/c8d941c2-68ed-4099-87ff-a73ec6121f73" />
 
-<img width="649" height="409" alt="Captura de pantalla (613)" src="https://github.com/user-attachments/assets/47a98b95-fab7-498b-9719-432d61dcc091" />
+<img width="705" height="448" alt="Captura de pantalla (695)" src="https://github.com/user-attachments/assets/f57d532f-dca1-41a9-959b-bab3fe5ac7db" />
 
 <img width="760" height="390" alt="Captura de pantalla (616)" src="https://github.com/user-attachments/assets/f60f626b-0cd4-4d49-9094-95330b6f80cf" />
 
-<img width="784" height="472" alt="Captura de pantalla (617)" src="https://github.com/user-attachments/assets/396fbc97-6659-49c6-8f88-d0e5caf50bb7" />
+<img width="733" height="428" alt="Captura de pantalla (696)" src="https://github.com/user-attachments/assets/e82f16ff-90ca-42d8-92e1-40de6aa58e54" />
 
 
