@@ -9,13 +9,13 @@ Sistema de escritorio desarrollado en C# bajo una arquitectura de capas y comuni
 * **Interfaz Gráfica:** Formularios en Windows Forms (`.NET Framework 4.8`).
 
 ### Estructura del Repositorio:
-* **Cliente/**: Aplicación de escritorio para la interfaz de usuario.
-* **EmpresaAutoMarket/**: Servidor TCP encargado de procesar y gestionar las peticiones.
-* **CapaDatos/**: Conexión y ejecución de consultas con la base de datos.
-* **CapaLogica/**: Reglas de negocio del sistema.
-* **CapaEntidades/**: Clases y modelos de datos.
-* **SQLQuery1.sql/**: Script de creación y configuración de la base de datos.
-* **Manual de uso_Sistema AutoMarket.pdf**: Documentación detallada del funcionamiento del sistema.
+* `Cliente/`: Aplicación de escritorio para la interfaz de usuario.
+* `EmpresaAutoMarket/`: Servidor TCP encargado de procesar y gestionar las peticiones.
+* `CapaDatos/`: Conexión y ejecución de consultas con la base de datos.
+* `CapaLogica/`: Reglas de negocio del sistema.
+* `CapaEntidades/`: Clases y modelos de datos.
+* `SQLQuery1.sql/`: Script de creación y configuración de la base de datos.
+* `Manual de uso_Sistema AutoMarket.pdf`: Documentación detallada del funcionamiento del sistema.
 
 <img width="562" height="494" alt="Captura de pantalla (693)" src="https://github.com/user-attachments/assets/96475a7d-b50c-4e85-87e0-1a43b0d895a1" />
 
